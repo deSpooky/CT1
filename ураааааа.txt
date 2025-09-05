@@ -1,3 +1,20 @@
 Полина Ларионова
 Группа - ИТ 11.24.2
 Почта - LarionovaPA24@spb.ithub.ru
+
+Просто создала файлик в VS Code. Создала репозиторий на гите, скопировало нужные команды в консоль:
+
+echo "# CT1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/deSpooky/CT1.git
+git push -u origin main
+
+после прописала:
+git add .
+git commit -m "txt file"
+git push
+
+готово ✈︎✈︎✈︎
